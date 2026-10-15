@@ -1,5 +1,3 @@
-package Day_6;
-
 class Device {
     void poweron() {
         System.out.println("Device powered on");

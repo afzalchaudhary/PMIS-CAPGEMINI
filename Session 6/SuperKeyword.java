@@ -1,4 +1,3 @@
-package Day_6;
 
 class Employee {
     double salary = 30000;

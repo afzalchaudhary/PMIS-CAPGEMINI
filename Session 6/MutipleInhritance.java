@@ -1,4 +1,3 @@
-package Day_6;
 
 interface Mother {
     void message();
